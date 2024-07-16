@@ -1,6 +1,6 @@
-# React TypeScript SCSS Modules
+# React TypeScript Webpack Sample Project
 
-A boilerplate for a React application using TypeScript with SCSS modules and a custom Webpack setup. 
+A boilerplate for a React application using TypeScript and a custom Webpack setup. 
 
 ## Getting Started
 
